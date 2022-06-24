@@ -1,41 +1,41 @@
 @font-face {
     font-family: 'Linux Libertine'; /* normal */
-    src: url('/gpitsiladis/files/fonts/LinLibertine_R.woff') format('woff');
+    src: url('/files/fonts/LinLibertine_R.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Linux Libertine'; /* italic */
-    src: url('/gpitsiladis/files/fonts/LinLibertine_RI.woff') format('woff');
+    src: url('/files/fonts/LinLibertine_RI.woff') format('woff');
     font-weight: normal;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Linux Libertine'; /* bold */
-    src: url('/gpitsiladis/files/fonts/LinLibertine_RB.woff') format('woff');
+    src: url('/files/fonts/LinLibertine_RB.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Linux Libertine'; /* bold */
-    src: url('/gpitsiladis/files/fonts/LinLibertine_RBI.woff') format('woff');
+    src: url('/files/fonts/LinLibertine_RBI.woff') format('woff');
     font-weight: bold;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Linux Libertine'; /* semibold */
-    src: url('/gpitsiladis/files/fonts/LinLibertine_RZ.woff') format('woff');
+    src: url('/files/fonts/LinLibertine_RZ.woff') format('woff');
     font-weight: 600;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Linux Libertine'; /* semibold */
-    src: url('/gpitsiladis/files/fonts/LinLibertine_RZI.woff') format('woff');
+    src: url('/files/fonts/LinLibertine_RZI.woff') format('woff');
     font-weight: 600;
     font-style: italic;
 }
